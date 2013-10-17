@@ -1,0 +1,11 @@
+body {
+  padding-top: 60px;
+}
+
+div.modal {
+  display: none;
+}
+
+span.label {
+  cursor: default;
+}

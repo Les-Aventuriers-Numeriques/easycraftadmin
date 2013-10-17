@@ -1,0 +1,19 @@
+Bugtracker : http://bugs.epoc.fr/search.php?project_id=6
+
+Dédié :
+  IP              : 176.31.105.154
+  Nom             : ks392283.kimsufi.com
+  Utilisateur SSH : root
+  Mot de passe    : FKARxNMc
+
+Port JSONAPI : 20059
+Mot de passe appli : MotDePasse
+Utilisteur JSONAPI : easycraftadmin
+Mot de passe JSONAPI : AvlWkaMp
+GDS JSONAPI : i+LU(m2E2*fw
+
+Commandes consoles : http://www.minecraftwiki.net/wiki/SMP_Server_commands
+Doc JSONAPI : https://github.com/alecgorge/jsonapi/wiki
+API JSONAPI : http://alecgorge.com/minecraft/jsonapi/apidocs/
+Slim : http://www.slimframework.com/
+Bootstrap : http://twitter.github.com/bootstrap/
